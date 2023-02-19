@@ -1,7 +1,6 @@
 package xyz.playneptune.consolefilter.filter
 
 import xyz.playneptune.consolefilter.ConsoleFilterPlugin
-import xyz.playneptune.consolefilter.util.createCaseInsensitiveRegex
 
 interface LogFilter {
 
