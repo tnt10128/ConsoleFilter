@@ -1,7 +1,10 @@
 # 👮 ConsoleFilter
 Filter unwanted messages from your Minecraft server console
 
-## ℹ️ Information
+![GNU GPL v3](https://img.shields.io/github/license/TNT10128/ConsoleFilter?style=for-the-badge)
+![Codefactor code quality](https://img.shields.io/codefactor/grade/github/TNT10128/ConsoleFilter?style=for-the-badge)
+
+## ℹ️ Description
 ConsoleFilter is a Bukkit plugin that lets you filter logs
 that appear in your console. It has a simple, easy-to-use
 configuration and intuitive commands.
