@@ -40,7 +40,7 @@ dependencies {
     compileOnly(spigot("1.19.2"))
     implementation(kotlin("stdlib-jdk8"))
     implementation(bStatsLite("1.8"))
-    compileOnly("org.apache.logging.log4j:log4j-core:2.19.0")
+    compileOnly("org.apache.logging.log4j:log4j-core:2.20.0")
 }
 
 spigot {
