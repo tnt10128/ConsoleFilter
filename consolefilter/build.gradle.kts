@@ -8,7 +8,7 @@ version = "2023.1"
 plugins {
     kotlin("jvm") version "1.8.10"
     id("kr.entree.spigradle") version "2.4.3"
-    id("com.github.johnrengelman.shadow") version "7.1.2"
+    id("com.github.johnrengelman.shadow") version "8.1.0"
 }
 
 repositories {
