@@ -6,7 +6,7 @@ group = "xyz.playneptune"
 version = "2023.1"
 
 plugins {
-    kotlin("jvm") version "1.8.10"
+    kotlin("jvm") version "1.8.20"
     id("kr.entree.spigradle") version "2.4.3"
     id("com.github.johnrengelman.shadow") version "7.1.2"
 }
